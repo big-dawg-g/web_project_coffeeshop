@@ -128,7 +128,7 @@
   background-size: cover;
 }
 
-.title {
+.recipes__title {
   max-width: 580px;
   margin: 0 0 24px;
   font-weight: 500;
@@ -136,7 +136,7 @@
   line-height: 52px;
 }
 
-.subtitle {
+.recipes__subtitle {
   max-width: 439px;
   margin: 0 0 80px;
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -146,7 +146,7 @@
   line-height: 30px;
 }
 
-.videos {
+.recipes__videos {
   display: flex;
   column-gap: 40px;
   margin: 0 auto 0;
@@ -156,7 +156,7 @@
   margin: 0;
 }
 
-.iframe {
+.recipes__iframe {
   width: 480px;
   height: 273px;
   margin: 0;
